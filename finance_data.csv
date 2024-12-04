@@ -1,0 +1,24 @@
+date,amount,category,description
+20-02-2002,2000,income,salary
+11-08-2024,9000.0,income,lol
+20-05-2024,2000.0,income,salary
+10-03-2024,1500.0,income,freelance work
+15-04-2024,2500.0,expense,rent
+05-06-2024,500.0,expense,grocery shopping
+12-07-2024,1200.0,income,bonus
+01-08-2024,600.0,expense,utilities
+18-08-2024,300.0,expense,transportation
+22-09-2024,1000.0,income,investment return
+29-09-2024,200.0,expense,dining out
+10-10-2024,750.0,income,side hustle
+20-10-2024,150.0,expense,coffee
+25-10-2024,3200.0,income,project payment
+30-10-2024,200.0,expense,subscription service
+05-11-2024,4500.0,income,consulting fees
+12-11-2024,800.0,expense,entertainment
+18-11-2024,1800.0,income,stock dividends
+25-11-2024,400.0,expense,gas
+02-12-2024,2500.0,income,rent income
+10-12-2024,100.0,expense,parking
+15-12-2024,900.0,expense,groceries
+20-12-2024,2000.0,income,year-end bonus
